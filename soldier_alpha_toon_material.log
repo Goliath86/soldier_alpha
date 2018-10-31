@@ -1,0 +1,56 @@
+Exporter version: 5.6.4, Blender version: 2.79 (sub 0)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		export scope        :  ALL
+		inline textures     :  false
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		texture directory   :  D:\Dropbox\Progetti Mattia\JavaScript\blender-meshes\soldier-alpha\
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
+	processing begun of skeleton:  Armature, id:  0
+		processing begun of bone:  lowerTorso, index:  0
+		processing begun of bone:  upperTorso, index:  1
+		processing begun of bone:  neck, index:  2
+		processing begun of bone:  head, index:  3
+		processing begun of bone:  clavicleR, index:  4
+		processing begun of bone:  upperArmR, index:  5
+		processing begun of bone:  lowerArmR, index:  6
+		processing begun of bone:  handR, index:  7
+		processing begun of bone:  clavicleL, index:  8
+		processing begun of bone:  upperArmL, index:  9
+		processing begun of bone:  lowerArmL, index:  10
+		processing begun of bone:  handL, index:  11
+		processing begun of bone:  upperLegL, index:  12
+		processing begun of bone:  lowerLegL, index:  13
+		processing begun of bone:  footL, index:  14
+		processing begun of bone:  upperLegR, index:  15
+		processing begun of bone:  lowerLegR, index:  16
+		processing begun of bone:  footR, index:  17
+		processing action Animation:  in[1 - 25], out[0 - 25]
+	processing begun of mesh:  Man
+		processing begun of Standard material:  SkinColor
+		processing begun of Standard material:  Multicam_Cream
+		processing begun of Standard material:  Multicam_Brown
+		processing begun of Standard material:  Multicam_Olive
+		processing begun of Standard material:  Multicam_Tan
+		processing begun of multimaterial:  soldier_alpha_toon_material.Multimaterial#0
+		num positions      :  837
+		num normals        :  837
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2964
+		Skeleton stats:  
+			Total Influencers:  2089
+			Avg # of influencers per vertex:  2.4958
+			Highest # of influencers observed:  6, num vertices with this:  19
+			exported as 6 influencers
+			num skeletonWeights and skeletonIndices:  6696
+========= Writing of scene file started =========
+========= Writing of scene file completed =========
+========= end of processing =========
+elapsed time:  0 min, 0.3825 secs
